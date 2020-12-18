@@ -27,16 +27,20 @@ pip install -r requirements.txt
 1) Your pip is not recognized!
 
    --> Uninstall your current Python Version and download it again.
-   Don't forget to tick the " Add to Path " Box - Fixed.
+   Don't forget to tick the " Add to Path " Box. Fixed.
    
 ## Legal
 
 This was merely a speedrun to demonstrate how username checkers work.
+
 This is illegal if you use this without the consent of the owners (in this case, the TikTok team).
+
 The software designed to perform website security testing.
+
 The author is not responsible for any illegal use of these programs.
-I am not accountable for anything you get into.
-I am not accountable for any of your actions.
+
+I am not accountable for anything you get into. I am not accountable for any of your actions.
+
 This is 100% educational, please do not misuse this tool.
        
 ## Contact
