@@ -6,7 +6,7 @@ This is an simple to use Checker which is written in Python with aiohttp for the
 
 1) Download the Source Code
 
-2) Open an Terminal (optional)
+2) Open an Terminal
 
 3) Run this Command in it :
    
