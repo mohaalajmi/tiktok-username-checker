@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1) Your pip is not recognized!
 
    --> Uninstall your current Python Version and download it again.
-   Don't forget to tick the " Add to Path " Box. Fixed.
+   Don't forget to tick the " Add to Path " Box - Fixed.
    
 ## Legal
 
